@@ -27,10 +27,3 @@ src="https://raw.githubusercontent.com/gist/viniciusmarques-dev/035551d79ab1244f
   <img align="center" alt="icon-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="icon-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusmarques-dev)](https://github.com/viniciusmarques-dev/github-readme-stats)
-
-<!---
-viniciusmarques-dev/viniciusmarques-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
