@@ -9,7 +9,7 @@ src="https://raw.githubusercontent.com/gist/viniciusmarques-dev/035551d79ab1244f
 - 🔥 Junior Software Engineer
 - 👨‍💻 Student at [PUC Minas](www.pucminas.br)
 - 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJs, NodeJs, SQL**
-- ⚡ Fun facts: **Karateka 🥋 / Gym 🏋️‍♂️**
+- ⚡ Fun facts: **Karate 🥋 / Gym 🏋️‍♂️**
 
 <br>
 <br>
