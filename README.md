@@ -2,10 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmarques-dev&color=red"/></p>
 
-
 - 🔥 Junior Software Engineer
 - 👨‍💻 Student at [PUC Minas](www.pucminas.br)
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, ReactJs, NodeJs, SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, NodeJs, ReactJs, SQL/NoSQL**
 - ⚡ Fun facts: **Karate 🥋 / Gym 🏋️‍♂️**
 
 <br>
@@ -28,4 +27,5 @@
 <br>
 <br>
 
+## 💻 &nbsp; Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
