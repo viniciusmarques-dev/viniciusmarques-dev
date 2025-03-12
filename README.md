@@ -25,4 +25,7 @@
   <img align="center" alt="icon-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
+<br>
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
