@@ -1,6 +1,3 @@
-<img align="right" height="590em" 
-src="https://raw.githubusercontent.com/gist/viniciusmarques-dev/035551d79ab1244f371b403d15646f03/raw/ebbd6e5b10d815dca7e2749fcc4505e19484d15d/githubcard.svg"/>
-
 <h1 align="left"> Hi Dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Marques</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmarques-dev&color=red"/></p>
@@ -27,3 +24,5 @@ src="https://raw.githubusercontent.com/gist/viniciusmarques-dev/035551d79ab1244f
   <img align="center" alt="icon-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="icon-mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
