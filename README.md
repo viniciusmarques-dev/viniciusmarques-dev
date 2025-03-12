@@ -1,15 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="left"> Hi Dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Marques</h1>
+<h1 align="left"> Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Marques</h1>
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vinicius&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmarques-dev&color=red"/></p>
 
 ## Sobre mim
 
 - 🔥 Junior Software Engineer
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Student at [PUC Minas](www.pucminas.br).
-- 🌱 Aprendendo mais sobre Nodejs/Typescript.
 
 <br>
 <br>
@@ -39,5 +38,5 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/viniciusmarques-/)](www.linkedin.com/in/viniciusmarques-/)
-[![Gmail Badge](https://img.shields.io/badge/-viniciusmarques.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmarques.dev@gmail.com)](mailto:viniciusmarques.dev@gmail.com)
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(www.linkedin.com/in/viniciusmarques-/)
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:viniciusmarques.dev@gmail.com)
