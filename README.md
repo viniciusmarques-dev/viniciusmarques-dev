@@ -13,7 +13,7 @@
 <br>
 <br>
 
-## 🔧 &nbsp;Minhas Skills
+## 🔧 &nbsp;My Stacks
 <div style="display: inline-block"><br>
 <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -36,7 +36,13 @@
 ## 💻 &nbsp; Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Onde me encontrar
+## Contact me
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(www.linkedin.com/in/viniciusmarques-/)
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white(mailto:viniciusmarques.dev@gmail.com)
+<p align="left">
+  <a href="mailto:viniciusmarques.dev@gmail.com"" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/viniciusmarques-/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/+5532999770830" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+</p>
