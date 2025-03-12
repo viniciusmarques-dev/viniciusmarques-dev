@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="left"> Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Marques</h1>
-<p>Welcome to my GitHub profile! I'm a passionate software engineer with experience in building web applications and APIs. I enjoy working with modern technologies and solving complex problems through code.</p>
+<p>Welcome to my GitHub profile! <br> I'm a passionate software engineer with experience in building web applications and APIs. I enjoy working with modern technologies and solving complex problems through code.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmarques-dev&color=red"/></p>
 
 ## About Me
