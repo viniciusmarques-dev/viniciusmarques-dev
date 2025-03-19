@@ -6,9 +6,8 @@
 
 ## About Me
 
-- 🔥 Junior Software Engineer
+- 🔥 Software Engineer
 - 🎓 Student at [PUC Minas](www.pucminas.br).
-- 🤔 Exploring new technologies and developing software solutions.
 - 🧠 I’m always looking for new challenges and opportunities to grow as a software engineer.
 - 📈 I’m focused on improving my skills in **backend development** and **software architecture**.
 
