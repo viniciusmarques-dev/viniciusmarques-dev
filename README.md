@@ -30,6 +30,8 @@
 ## 💻 &nbsp; Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![card](https://github-readme-stats.vercel.app/api?username=viniciusmarques-dev&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 ## How to Reach Me
 
 <p align="left">
