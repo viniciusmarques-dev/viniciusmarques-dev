@@ -18,7 +18,7 @@
 <div style="display: inline-block"><br>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nest,go,react,angular,mysql,postgres,mongodb,dynamodb,docker,aws,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nest,react,angular,go,mysql,postgres,mongodb,dynamodb,docker,aws,rabbitmq" />
   </a>
 </p>
 </div>
