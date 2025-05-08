@@ -17,8 +17,8 @@
 ## 🔧 &nbsp;Technologies & Tools
 <div style="display: inline-block"><br>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nest,go,mysq,postgres,docker,aws,rabbitmq" />
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nest,go,mysql,postgres,docker,aws,rabbitmq" />
   </a>
 </p>
 </div>
