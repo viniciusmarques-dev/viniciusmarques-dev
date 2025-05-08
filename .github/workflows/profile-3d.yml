@@ -22,4 +22,3 @@ jobs:
  git add -A .
  if git commit -m "generated"; then
  git push
- fi
