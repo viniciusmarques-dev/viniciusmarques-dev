@@ -1,14 +1,26 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b5121aa2-1f24-4676-a65c-e8d3709546be" alt="Hello World" width="200px" />
+</div>
 
-<h1 align="left"> Hello! 😁 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinicius Marques</h1>
-<p>Welcome to my GitHub profile! <br> I'm a passionate software engineer with experience in building web applications. I enjoy working with modern technologies and solving complex problems through code.</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusmarques-dev&color=red"/></p>
+<h1 align="center">Vinicius Marques</h1>
+<p align="center">
+  <em>Fullstack Developer · 🇧🇷 based in Minas Gerais</em>
+</p>
+<p>
+  Welcome to my GitHub profile! 
+  <br> 
+  I’m a full-stack developer with experience in building web applications and distributed service systems. Currently, I’m focusing on deepening my knowledge in system architecture, scalability, and design     
+  patterns, aiming to strengthen my technical foundation and expand my skills.
+  <br>
+  I’m always open to new opportunities and challenges that foster my professional growth. Feel free to get in touch!
+</p>
 
 ## About Me
 
 - 🔥 Software Engineer
 - 🎓 Student at [PUC Minas](www.pucminas.br).
 - 🧠 I’m always looking for new challenges and opportunities to grow as a software engineer.
+- 🎯 Always chasing scalability with simplicity.
 - 📈 I’m focused on improving my skills in **backend development** and **software architecture**.
 
 <br>
@@ -28,7 +40,7 @@
 ---
 
 ## 💻 &nbsp; Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&hide=html&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to Reach Me
 
