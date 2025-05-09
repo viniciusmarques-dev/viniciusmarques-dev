@@ -17,9 +17,9 @@
 
 ## About Me
 
-- 🔥 Software Engineer
+- 🔥 FullStack Developer
 - 🎓 Student at [PUC Minas](www.pucminas.br).
-- 🧠 I’m always looking for new challenges and opportunities to grow as a software engineer.
+- 🧠 I’m always looking for new challenges and opportunities to grow as a developer.
 - 🎯 Always chasing scalability with simplicity.
 - 📈 I’m focused on improving my skills in **backend development** and **software architecture**.
 
