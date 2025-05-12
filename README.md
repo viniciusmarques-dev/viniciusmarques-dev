@@ -40,7 +40,7 @@
 ---
 
 ## 💻 &nbsp; Most Used Languages
-[![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&hide=html&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusmarques-dev&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to Reach Me
 
