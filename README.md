@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/b5121aa2-1f24-4676-a65c-e8d3709546be" alt="Hello World" width="200px" />
-</div>
-
 <h1 align="center">Vinicius Marques</h1>
 <p align="center">
   <em>Fullstack Developer · 🇧🇷 based in Minas Gerais</em>
@@ -16,12 +12,12 @@
 </p>
 
 ## About Me
-
 - 🔥 FullStack Developer
 - 🎓 Student at [PUC Minas](www.pucminas.br).
 - 🧠 I’m always looking for new challenges and opportunities to grow as a developer.
 - 🎯 Always chasing scalability with simplicity.
 - 📈 I’m focused on improving my skills in **backend development** and **software architecture**.
+- 
 
 <br>
 <br>
